@@ -3,14 +3,21 @@ body{
 	background: #f5f5f5;
 }
 p{
-	background:white
+	background-color:white;
+	margin:10px;
+	padding:10px;
+	border:1px solid;
+	
+/* 	text-align: right; */
+	
 }
 
 .div{
-		
+	
 }
 
 i{
-	float:right;
+	
+	float: right;
 }
 
